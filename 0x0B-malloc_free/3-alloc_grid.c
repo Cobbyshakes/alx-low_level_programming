@@ -29,7 +29,7 @@ return (NULL);
 for (x = 0; x < height; x++)
 {
 for (y = 0; y < width; y++)
-mee[x][y] = 0
+mee[x][y] = 0;
 }
 return (mee);
 }
